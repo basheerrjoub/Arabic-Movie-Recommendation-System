@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # myapp
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Arabic-Movie-Recommendation-System
+Flutter App that uses euclidean distance to recommend movies to the user after extracting the features from him. (Arabic language)
+>>>>>>> db79212b7d47a9be6d19ef4c90ad6ab38a469de0
