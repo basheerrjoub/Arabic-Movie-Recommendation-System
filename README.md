@@ -1,21 +1,24 @@
-<<<<<<< HEAD
-# myapp
+# A smart App to recommend movies in Arabic language
+This is a structured app that has many modules in it, as the name suggested this app intended to help the arab audience into having an arabic movie recommendation system based on the features extracting from the user.
 
-A new Flutter project.
+# Recommendation System
 
-## Getting Started
+The frustrating thing about Dart that their is no functional framework that one can work with to build a recommendation system with much of accuracy, So that I built by myself the model for the recommendation, the model measures the distance between the user's feature vector θ and the movie features X then recommend the least Euclidean distance to make the recommendation, Hence this system can be considered as Content-Based recommender system.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Archeticture
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The system uses the help of Flutter framework to make the recommendations for the arab audience, the good thing about flutter that it is native and genuine, Hence the compiled code is native in the paltforms that it operates on, you can use the code provided to develop on it the system.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# Arabic-Movie-Recommendation-System
-Flutter App that uses euclidean distance to recommend movies to the user after extracting the features from him. (Arabic language)
->>>>>>> db79212b7d47a9be6d19ef4c90ad6ab38a469de0
+# Survey
+
+There is a servey at the start of the app, this servey intends to extract the feature vector θ of the user to make the recommendations.
+<p align="center">
+  <img src="https://i.imgur.com/m6YayYk.png"  height="500">
+  <img src="https://imgur.com/HU3Dt0s.png"  height="500">
+</p>
+
+# Result
+<p align="center">
+  <img src="https://imgur.com/wKgBKc3.png"  height="500">
+</p>
