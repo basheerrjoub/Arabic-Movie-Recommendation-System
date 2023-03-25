@@ -3,7 +3,7 @@ This is a structured app that has many modules in it, as the name suggested this
 
 # Recommendation System
 
-The frustrating thing about Dart that their is no functional framework that one can work with to build a recommendation system with much of accuracy, So that I built by myself the model for the recommendation, the model measures the distance between the user's feature vector θ and the movie features X then recommend the least Euclidean distance to make the recommendation, Hence this system can be considered as Content-Based recommender system.
+The frustrating thing about Dart that there is no functional framework that one can work with to build a recommendation system with much of accuracy, So that I built by myself the model for the recommendation, the model measures the distance between the user's feature vector θ and the movie features X then recommend the least Euclidean distance to make the recommendation, Hence this system can be considered as Content-Based recommender system.
 
 
 # Archeticture
